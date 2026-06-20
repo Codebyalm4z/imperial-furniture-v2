@@ -1,0 +1,6 @@
+{
+  "name": "Imperial Furniture",
+  "description": "A luxury furniture catalog and consultation booking platform for Imperial Furniture, established since 1983 in Mumbai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
